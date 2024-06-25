@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #FFAF45;
+}
+.titulo{ 
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color : rgb(251, 109, 72);
+  color: whitesmoke;
+  }
+ 
+.titulo {
+  font-size: 50px;
+  font-weight: bold;
+}
+.subtitulo {
+  color: rgb(251, 109, 72);
+}
+
+.conten1{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color : rgb(251, 109, 72);
+  color: whitesmoke;
+}
+
+.conten1 img{
+  height: 250px;
+}
+
+.conten1 p{
+  font-size: 20px;
+  font-weight: bold;
+}
+
